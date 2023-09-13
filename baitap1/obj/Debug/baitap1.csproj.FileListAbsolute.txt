@@ -1,0 +1,7 @@
+D:\Visual Studio\baitap1\baitap1\bin\Debug\baitap1.exe.config
+D:\Visual Studio\baitap1\baitap1\bin\Debug\baitap1.exe
+D:\Visual Studio\baitap1\baitap1\bin\Debug\baitap1.pdb
+D:\Visual Studio\baitap1\baitap1\obj\Debug\baitap1.csproj.AssemblyReference.cache
+D:\Visual Studio\baitap1\baitap1\obj\Debug\baitap1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\baitap1\baitap1\obj\Debug\baitap1.exe
+D:\Visual Studio\baitap1\baitap1\obj\Debug\baitap1.pdb
